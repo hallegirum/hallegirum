@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Computer Science and Economics student at Brown University. I am interested in machine learning and data science. 
+I am Computer Science and Economics student at Brown University. I am interested in machine learning and data science.
 
 - 📫 How to reach me: Linkedln: www.linkedin.com/in/halleluiah-girum, Email: halleluiah_girum@brown.edu 
 - ⚡ Fun fact: I play paino. 
